@@ -2,8 +2,8 @@ Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
-
 [![Build Status](https://dev.azure.com/godescbach/Configuring%20Pipelines%20as%20Code%20with%20YAML/_apis/build/status/PartsUnlimited?branchName=master)](https://dev.azure.com/godescbach/Configuring%20Pipelines%20as%20Code%20with%20YAML/_build/latest?definitionId=16&branchName=master)
+
 
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
